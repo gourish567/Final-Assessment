@@ -76,6 +76,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\gourish\HRMProject"/>
 			<item value="C:\gourish\SeleniumWithMaven"/>
 		</list>
 		<list key="projectNameTemplate">

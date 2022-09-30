@@ -10,7 +10,6 @@ public class OrangeWebsite {
 	 WebDriver driver = new ChromeDriver();
   void login()
   {
-	    
 		driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
