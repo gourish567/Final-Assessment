@@ -25,16 +25,25 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="AutomationTestingFinalAssessment.AutomationTestingFinalAssessment"/>
+			<item value="asas.asas"/>
+			<item value="FinallAssessment.FinallAssessment"/>
 			<item value="MavenProject.MavenProject"/>
 			<item value="axaxaxaxaxxax.ggsaaxaxaxa"/>
 			<item value="OnlineMavenProject.OnlineMavenProject"/>
 		</list>
 		<list key="groupId">
+			<item value="AutomationTestingFinalAssessment"/>
+			<item value="asas"/>
+			<item value="FinallAssessment"/>
 			<item value="MavenProject"/>
 			<item value="axaxaxaxaxxax"/>
 			<item value="OnlineMavenProject"/>
 		</list>
 		<list key="artifactId">
+			<item value="AutomationTestingFinalAssessment"/>
+			<item value="asas"/>
+			<item value="FinallAssessment"/>
 			<item value="MavenProject"/>
 			<item value="ggsaaxaxaxa"/>
 			<item value="OnlineMavenProject"/>

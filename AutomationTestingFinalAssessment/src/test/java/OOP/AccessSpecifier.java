@@ -1,4 +1,4 @@
-package javaprogram;
+package OOP;
 class methods
 {
 	private void m1()
